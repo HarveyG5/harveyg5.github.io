@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Georgia');
+
+body {
+    color: white;
+    background: #111;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    font-family: Georgia;
+    font-size: 100%;
+}
+
+.header {
+    color: orange;
+    text-align: center;
+    font-family: Georgia;
+}
+
+.toc {
+    text-align: justify;
+    margin: 0px 500px 0px 700px;
+}
+
+.text {
+    text-align: justify;
+    margin: 0px 500px 0px 500px;
+}
+
+footer {
+    text-align: center;
+}
+
+.leftfooter {
+    margin: 0px 25px 0px 0px;
+}
+
+.middlefooter {
+    margin: 0px 25px 0px 25px;
+}
+
+.rightfooter {
+    margin: 0px 0px 0px 25px;
+}
