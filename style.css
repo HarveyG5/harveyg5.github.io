@@ -17,12 +17,14 @@ body {
 
 .toc {
     text-align: justify;
-    margin: 0px 500px 0px 700px;
+    margin: 0 auto;
+    width: 35em;
 }
 
 .text {
     text-align: justify;
-    margin: 0px 500px 0px 500px;
+    margin: 0 auto;
+    width: 35em;
 }
 
 footer {
