@@ -24,7 +24,13 @@ body {
 .text {
     text-align: justify;
     margin: 0 auto;
-    width: 35em;
+    width: 560px;
+}
+
+@media only screen and (max-width: 600px) {
+  .toc, .text {
+    width: 240px;
+  }
 }
 
 footer {
